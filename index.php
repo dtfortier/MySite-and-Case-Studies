@@ -43,27 +43,39 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="resources/img/portfolio/thumbs/LE-dashboard1.png" class="img-responsive" alt="">
+                      <div class="port-block img-responsive text-center">
+                            <h3 class="portfolio-block-title">Localedge Dashboard</h3>
+                            <i class="fa fa-bar-chart fa-3x" aria-hidden="true"></i>
+                        </div>
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                    <a href="#" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="resources/img/portfolio/thumbs/STRDS-LE.png" class="img-responsive" alt="">
+                        <div class="port-block img-responsive text-center">
+                            <h3 class="portfolio-block-title">Weldworks Website</h3>
+                            <p>(Coming Soon)</p>
+                            <i class="fa fa-desktop fa-3x" aria-hidden="true"></i>
+                        </div>
+                       
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
-                    <a href="resources/portfolio/le-dashboard/" class="portfolio-link" data-toggle="modal">
+                    <a href="#" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="resources/img/portfolio/thumbs/MKPS-LE.png" class="img-responsive" alt="">
+                         <div class="port-block img-responsive text-center">
+                            <h3 class="portfolio-block-title">Living In The Buff Studio</h3>
+                            <p>(Coming Soon)</p>
+                            <i class="fa fa-desktop fa-3x" aria-hidden="true"></i>
+                        </div>
                     </a>
                 </div>
                 <!--<div class="col-sm-4 portfolio-item">
@@ -115,18 +127,10 @@
             </div>
             <div class="row text-center">
                
-                    <p>Hello there! Thank you for visiting! I am Danielle Fortier, a web designer with a large focus in User Experience. I graduated with a B.S in Computer Information Systems and a B.A in Graphic Design and have been designing professionally since 2010. I plan to return to school for Human Computer Interaction so I can better understand the science behind cognitive psychology, usability and visual perception (phew!) Pretty neat stuff, eh?
-
-                    <p>Some history
-                    Originally from, Niagara Falls, NY, I planted my career roots in Buffalo, NY starting with Roswell Park Cancer Institute as a Web Architect, then HigherOne (Campus Labs) as a User Experience Designer, then in Orchard Park, NY at AdsOn5th as a Web Designer/Developer and Web Marketing specialist and now at LocalEdge in Buffalo as the UX/UI Designer. My interests began in the early days of Angelfire, GeoCities and Myspace page layouts that included the ever famous blinking .gifs and scrolling marques. It was when friends began asking me to design their own pages that I took a more serious interest in the craft.</p>
-
-                
-                    <p>What gets my creativity flowin’
-                    I gain my best inspirations from just being outdoors, whether it be grabbing color palettes from flower beds, or textural elements from cool looking grungy buildings, or at best, clearing my head on a long hike and grabbing all the beauty around me. It’s all art, to me. I feel there is more to web design than color, layout and well structured code. Every business has a certain feel. In general, your web experience should be able to depict the environment of each business’ nature.
-
-                    All in all…
-                    One of the greatest things about being a designer with a computer science background is that not only can I take care of the graphical aspects of a project, but can also understand and participate in the technical aspects of those projects. Interested in working with me? Shoot me an e-mail…
-                    </p>
+                    <p>Hey there. I'm a user experience/user interface designer based in Buffalo, NY, and I firmly believe that design is a process, not something that you put on top of a ready-made app. For this reason I try to familiarize myself with the development world to ensure I have an understanding of the development process so that I can help deliver product that all parties involved will be happy with. </p>
+                    <p>I am passionate about clean, simple design, and I really like creating things that help people make their lives a little easier.</p>
+                    <p>In my free time I like painting, running absurb long distances, hiking and fiddling with my guitar.</p>
+                    
                 </div>
           
             </div>

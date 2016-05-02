@@ -71,6 +71,13 @@ blockquote p {
 /* PORTFOLIO & CASE STUDIES */
 /*---------------------------------------------------------------------------------------*/
 
+/* FRONT BLOCKS */
+
+.port-block {background:#2c3e50;width:350px; height:200px;padding-top: 17px;}
+h3.portfolio-block-title {font-family: 'Droid Serif', serif;color:#fff;font-size:25px;padding-top: 45px;text-align:center;text-transform:none;}
+#portfolio .port-block p {color:#758EA7;font-size:16px;font-style:italic}
+.port-block i {color:#fff;font-size: 63px;padding-top:17px}
+a.portfolio-link {text-decoration: none;}
 
 /* HEADINGS */
 .portfolio h1, 

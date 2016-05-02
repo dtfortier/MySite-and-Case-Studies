@@ -43,7 +43,7 @@
                 <div class="col-md-6 content-bottom">
                     <h3>My Role</h3>
                     
-                    <p class="macro">I lead the design of the customer dashboard. The previous design was severly out of date, in 2014. My job was to modernize the interface and to address customer pain-points related to the product management and reporting experiences.</p>
+                    <p class="macro">I lead the re-design of the customer dashboard. The previous design was severly out of date, in 2014. My job was to modernize the interface and to address customer pain-points related to the product management and reporting experiences.</p>
                 </div>
                 <div class="col-md-6">
                     <!--<img class="img-responsive" src="../../resources/img/portfolio/le-dash/psd/my-role.png" alt="">-->
@@ -87,22 +87,114 @@
      
     </section>
     
-
-    <!-- What Is Section -->
-    <section class="gray-bg" id="header">
+            <!-- The Vision Section -->
+    <section class="gray-bg" id="challenge">
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
-                    <img class="img-responsive" src="../../resources/img/portfolio/le-dash/macbook2.png" alt="">
+                <div class="col-md-12 content-top">
+                    <h4>The Vision</h4>
+                    <h3>Interactive, Responsive, Appealing, User Friendly</h3>
+                    <p>Our vision for the dashboard was to create a tool that made users feel a need to view their product's reporting stats on a regular basis with ease of accessibility. Design wise, this meant more interactivity, the ability to view on a mobile device, and a clean look and feel.</p>
+                    <hr>
+                    <h4>DESIGN IDEAS I TOYED WITH</h4>
                 </div>
-                <div class="col-md-4 content-mid">
-                    <h3>What it is</h3>
+            </div>
+            <div class="row">
+                    <div class="col-sm-3 portfolio-item">
+                        <img src="../../resources/img/portfolio/le-dash/vision-4.png" class="img-responsive drop-shadow" alt="">
+                    </div>
+                     <div class="col-sm-3 portfolio-item">
+                        <img src="../../resources/img/portfolio/le-dash/vision-2.png" class="img-responsive drop-shadow" alt="">
+                    </div>
+                    <div class="col-sm-3 portfolio-item">
+                        <img src="../../resources/img/portfolio/le-dash/vision-1.png" class="img-responsive drop-shadow" alt="">      
+                    </div>
+                    <div class="col-sm-3 portfolio-item">
+                        <img src="../../resources/img/portfolio/le-dash/vision-3.png" class="img-responsive drop-shadow" alt="">
+                    </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- The Challenge Section -->
+    <section class="white-bg" id="challenge">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 content-top">
+                    <h4>The Challenge</h4>
+                    <h3>Increase Customer Engagement</h3>
+                    <p>The customer dashboard, formerly known as the "Launchpad", was a data tool that suffered from a severe lack of customer engagement. It was difficult to use and didn't display data in a way that customers might find appealing. The idea was to make data look interesting, and to design an environment that would be easier to navigate, enticing users to login to their dashboard more.</p>
+                    <p>Another challenge was incorporating data and the graphs from a separate business intelligence software that Localedge is using to manage reporting data, which meant we were limited on style for any graphs shown in the dashboard. We were able to work around that style block to the best of our abilities, and we continue to research new ways to stretch customization to ensure we keep up to date on a modern look and feel.</p>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
                     
-                    <p>The customer dashboard is a portal where users login to manage their products and view their reporting through the applications they have added to their personal campaigns.</p>
+                    <div class="col-sm-6 portfolio-item">
+                        <h4 class="text-center">Customer Launchpad</h4>
+                        <img src="../../resources/img/portfolio/le-dash/dash-before.png" class="img-responsive" alt="">
+                    </div>
+                   
+                    <div class="col-sm-6 portfolio-item">
+                         <h4 class="text-center">Customer Dashboard</h4>
+                        <img src="../../resources/img/portfolio/le-dash/dash-after.png" class="img-responsive" alt="">
+                    </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- The Framework Section -->
+    <section class="gray-bg" id="framework">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 content-top">
+                    <h4>The Framework</h4>
+                    <h3>How We Got There</h3>
+                    <p>The biggest challenge I faced throughout this project was balancing moving forward with designs, while collaborating with the product specialists and developers. Since this project touched every part of Localedge's products, I needed to coordinate and get buy‐in from many teams. This was tough. </p> 
+                    <p>Managing feedback was even more challenging because viewpoints were overall quite diverse. The team spent a heavy amount of time debating design decisions — when there wasn’t always data that could easily be gathered to help drive a decision.</p>
+                    <p>Additionally, because we were incorporating some old technology into the new dashboard as well as the seperate reporting data software, some design decisions were made that were not ideal. Much of the process became, "how far can we stretch this design concept with the foundation we already have built?" This eventually caused for some inconsistent design solutions throughout the application and thus caused for many failed tickets on the Quality Assurance end. </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                <h4>The Portal</h4>
+                    <p>I realized this pattern a few legs into the project and invested time into creating documentation to help alleviate the technology pains, and better articulate and illustrate the overall design concept and standards to follow.</p>
+                    <p>I developed a <a href="http://uxui.localedge.com">UX/UI Portal</a>. This includes sections for mockups, prototypes and the ui standards. It is a constant work in progress, however it has helped us to set rules for certain items and use them towards new design and development plans, company wide.</p>
+                </div>
+                <div class="col-md-8">
+                    <img class="img-responsive" src="../../resources/img/portfolio/le-dash/portal-ex.png" alt="">
                 </div>
             </div>
         </div>
     </section>
+    
+    <!-- The Execution Section -->
+    <section class="white-bg" id="challenge">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 content-top">
+                    <h4>The Execution</h4>
+                    <h3>Bringing it to life</h3>
+                    <p>The gallery below shows some of the app designs on a desktop and an iPhone.</p>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                    
+                    <div class="col-sm-6 portfolio-item">
+                        <h4 class="text-center">Customer Launchpad</h4>
+                        <img src="../../resources/img/portfolio/le-dash/dash-before.png" class="img-responsive" alt="">
+                    </div>
+                   
+                    <div class="col-sm-6 portfolio-item">
+                         <h4 class="text-center">Customer Dashboard</h4>
+                        <img src="../../resources/img/portfolio/le-dash/dash-after.png" class="img-responsive" alt="">
+                    </div>
+            </div>
+        </div>
+    </section>
+    
+
 
     <!-- Footer -->
     <footer class="text-center">
